@@ -1,8 +1,5 @@
-def def greeting(name = 'neighbor')
-  puts "Hello, #{name}!"
-end
- 
-greeting
+def introduction(name)
+  "Hi, my name is {name}."
 
 
 
